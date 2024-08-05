@@ -65,6 +65,9 @@
   <a href="mailto:joshin166@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
+  <a href="https://app.slack.com/">
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+</a>
  <a href="https://linkedin.com/in/www.linkedin.com/in/ joshin-joseph-9a197a48">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
@@ -81,9 +84,7 @@
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to discuss data analytics.
 
 </a>
- <a href="https://app.slack.com/">
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
-</a>
+
   
  
   
